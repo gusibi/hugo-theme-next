@@ -1,11 +1,9 @@
----
++++
 title: ""
-date: "now()"
-categories:
- - "xx"
-tags:
- - "xxx"
- - "xxx"
-slug = "xxx"
-toc: true
----
+slug: "xxx"
+
+categories: [""]
+tags: [""]
+
+draft: true
++++
