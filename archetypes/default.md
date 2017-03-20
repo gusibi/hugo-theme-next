@@ -1,10 +1,11 @@
 ---
-title: "xxxx"
-date: "2017-02-03"
+title: ""
+date: "now()"
 categories:
  - "xx"
 tags:
  - "xxx"
  - "xxx"
+slug = "xxx"
 toc: true
 ---
